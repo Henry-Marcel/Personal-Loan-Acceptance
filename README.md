@@ -38,7 +38,7 @@ The dataset contains 5,000 customer records, including the following features:
 - Customers with higher financial activity are more likely to accept personal loans.
 
 ## File Structure
-- `data/`: Contains sample dataset (`sample_data.csv`).
+- `data/`: Contains sample dataset (`bank_loan.csv`).
 - `notebooks/`: Jupyter notebooks for EDA and model building.
 - `visuals/`: Visual outputs like the ROC-AUC curve and feature importance chart.
 - `requirements.txt`: Python dependencies for replicating the project.
