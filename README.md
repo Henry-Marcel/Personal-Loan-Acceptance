@@ -46,5 +46,20 @@ The dataset contains 5,000 customer records, including the following features:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Personal-Loan-Acceptance.git
+   git clone https://github.com/yourusername/personal-loan-acceptance.git
+   
+2. Navigate to the project directory
+   ```bash
+   cd personal-loan-acceptance
+   
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the notebook:
+   ```bash
+   jupyter notebook notebooks/Acceptance-Loan-Project.ipynb
+
+Feel free to connect with me on:
+LinkedIn 
 
